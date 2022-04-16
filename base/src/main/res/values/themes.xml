@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="DizcodingBaseBottomSheetModal" parent="@style/Widget.Design.BottomSheet.Modal">
+        <item name="android:background">
+            @drawable/dizcoding_base_white_background_with_top_corner_15dp
+        </item>
+    </style>
+
+    <style name="DizcodingBaseBottomSheetDialog" parent="@style/Theme.Design.Light.BottomSheetDialog">
+        <item name="android:windowIsFloating">false</item>
+        <item name="bottomSheetStyle">@style/DizcodingBaseBottomSheetModal</item>
+    </style>
+
+</resources>
