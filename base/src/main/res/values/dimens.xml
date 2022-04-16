@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Font-->
+    <dimen name="dizcoding_base_dimens_font_size_2">2sp</dimen>
+    <dimen name="dizcoding_base_dimens_font_size_11">11sp</dimen>
+    <dimen name="dizcoding_base_dimens_font_size_12">12sp</dimen>
+    <dimen name="dizcoding_base_dimens_font_size_13">13sp</dimen>
+    <dimen name="dizcoding_base_dimens_font_size_14">14sp</dimen>
+    <dimen name="dizcoding_base_dimens_font_size_15">15sp</dimen>
+    <dimen name="dizcoding_base_dimens_font_size_16">16sp</dimen>
+    <dimen name="dizcoding_base_dimens_font_size_18">18sp</dimen>
+    <dimen name="dizcoding_base_dimens_font_size_21">21sp</dimen>
+    <dimen name="dizcoding_base_dimens_font_size_24">24sp</dimen>
+    <dimen name="dizcoding_base_dimens_font_size_30">30sp</dimen>
+    <dimen name="dizcoding_base_dimens_font_size_36">36sp</dimen>
+    <!--Radius-->
+    <dimen name="dizcoding_base_dimens_rad_4">4dp</dimen>
+    <dimen name="dizcoding_base_dimens_rad_5">5dp</dimen>
+    <dimen name="dizcoding_base_dimens_rad_10">10dp</dimen>
+    <dimen name="dizcoding_base_dimens_rad_12">12dp</dimen>
+    <dimen name="dizcoding_base_dimens_rad_15">15dp</dimen>
+    <dimen name="dizcoding_base_dimens_rad_20">20dp</dimen>
+    <dimen name="dizcoding_base_dimens_rad_26">26dp</dimen>
+    <!--Margin, Pdizcoding_base_dimens_adding, Size-->
+    <dimen name="dizcoding_base_dimens_space_0">0dp</dimen>
+    <dimen name="dizcoding_base_dimens_space_0_3">0.3dp</dimen>
+    <dimen name="dizcoding_base_dimens_space_1">1dp</dimen>
+    <dimen name="dizcoding_base_dimens_space_2">2dp</dimen>
+    <dimen name="dizcoding_base_dimens_space_3">3dp</dimen>
+    <dimen name="dizcoding_base_dimens_space_4">4dp</dimen>
+    <dimen name="dizcoding_base_dimens_space_5">5dp</dimen>
+    <dimen name="dizcoding_base_dimens_space_6">6dp</dimen>
+    <dimen name="dizcoding_base_dimens_space_7">7dp</dimen>
+    <dimen name="dizcoding_base_dimens_space_8">8dp</dimen>
+    <dimen name="dizcoding_base_dimens_space_10">10dp</dimen>
+    <dimen name="dizcoding_base_dimens_space_11">11dp</dimen>
+    <dimen name="dizcoding_base_dimens_space_12">12dp</dimen>
+    <dimen name="dizcoding_base_dimens_space_14">14dp</dimen>
+    <dimen name="dizcoding_base_dimens_space_15">15dp</dimen>
+    <dimen name="dizcoding_base_dimens_space_16">16dp</dimen>
+    <dimen name="dizcoding_base_dimens_space_18">18dp</dimen>
+    <dimen name="dizcoding_base_dimens_space_20">20dp</dimen>
+    <dimen name="dizcoding_base_dimens_space_23">23dp</dimen>
+    <dimen name="dizcoding_base_dimens_space_24">24dp</dimen>
+    <dimen name="dizcoding_base_dimens_space_25">25dp</dimen>
+    <dimen name="dizcoding_base_dimens_space_27">27dp</dimen>
+    <dimen name="dizcoding_base_dimens_space_30">30dp</dimen>
+    <dimen name="dizcoding_base_dimens_space_32">32dp</dimen>
+    <dimen name="dizcoding_base_dimens_space_33">33dp</dimen>
+    <dimen name="dizcoding_base_dimens_space_36">36dp</dimen>
+    <dimen name="dizcoding_base_dimens_space_38">38dp</dimen>
+    <dimen name="dizcoding_base_dimens_space_40">40dp</dimen>
+    <dimen name="dizcoding_base_dimens_space_48">48dp</dimen>
+    <dimen name="dizcoding_base_dimens_space_50">50dp</dimen>
+    <dimen name="dizcoding_base_dimens_space_52">52dp</dimen>
+    <dimen name="dizcoding_base_dimens_space_55">55dp</dimen>
+    <dimen name="dizcoding_base_dimens_space_56">56dp</dimen>
+    <dimen name="dizcoding_base_dimens_space_60">60dp</dimen>
+    <dimen name="dizcoding_base_dimens_space_66">66dp</dimen>
+    <dimen name="dizcoding_base_dimens_space_70">70dp</dimen>
+    <dimen name="dizcoding_base_dimens_space_78">78dp</dimen>
+    <dimen name="dizcoding_base_dimens_space_84">84dp</dimen>
+    <dimen name="dizcoding_base_dimens_space_100">100dp</dimen>
+    <dimen name="dizcoding_base_dimens_space_115">115dp</dimen>
+    <dimen name="dizcoding_base_dimens_space_120">120dp</dimen>
+    <dimen name="dizcoding_base_dimens_space_160">160dp</dimen>
+    <dimen name="dizcoding_base_dimens_space_200">200dp</dimen>
+    <dimen name="dizcoding_base_dimens_space_300">300dp</dimen>
+    <dimen name="dizcoding_base_dimens_space_500">500dp</dimen>
+</resources>
